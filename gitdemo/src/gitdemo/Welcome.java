@@ -7,6 +7,7 @@ public class Welcome {
 		System.out.println("Pushing the code to github");
 		System.out.println("Pulling the code from github");
 		System.out.println("Pushing the code to Remote repo: attempt2");
+		System.out.println("Pushing the code to Branch1");
 	}
 
 }
